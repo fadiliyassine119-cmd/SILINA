@@ -1,0 +1,6 @@
+{
+  "name": "Silana Bot Web - منصة إدارة وتشغيل بوت واتساب وتيليجرام",
+  "description": "منصة ويب متكاملة لتحويل سكربت سيلانا بوت إلى موقع حقيقي مع ربط مباشر لواتساب وتيليجرام وتشغيل الإضافات والذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
